@@ -1,4 +1,4 @@
-# Tests Skeleton
+# T3 Acceptance Scripts
 
 Welcome to the Guidance **Tests Skeleton** project. 
 
